@@ -1,5 +1,3 @@
-***
-
 # 🏦 Online Banking System (Django)
 
 A role-based Online Banking web application that simulates real banking operations—customers can view balance, manage beneficiaries, transfer funds, and generate statements, while Staff/Admin manage approvals and users.[1]
